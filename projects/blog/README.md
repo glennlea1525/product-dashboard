@@ -1,6 +1,8 @@
 # README
 
-Blog Platform with Dummy DataInteractive artifact ∙ Version 2 Perfect! I've created a complete blog platform with dummy data. Here's what it includes:
+## Blog Platform with Dummy Data
+
+Gemini created a complete blog platform with dummy data. Here's what it includes:
 
 ## Features:
 
